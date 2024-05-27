@@ -1,0 +1,31 @@
+File hướng dẫn
+
+- Link web của nhóm em: https://pkuc.site/
+- Nếu chạy localhost thì thầy cần sửa file db.php lại thành:
+<?php
+	$servername = "localhost";
+	$username = "root";
+	$password = "";
+	$dbname = "iovq1r3ujzst_webtintuc";
+	$conn = new mysqli($servername, $username, $password, $dbname);
+    mysqli_set_charset($conn, 'utf8');
+	if ($conn->connect_error) {
+		die("Connection failed: " . $conn->connect_error);
+    }
+?>
+
+- Link hướng dẫn xài các chức năng của admin và user: https://drive.google.com/drive/folders/1-DxOOOvDe9N9bX42n4pmsKt1vjxGJu8v
+
+
+- Tài khoản admin
+Tài khoản: admin111
+Mật khẩu: 111111
+
+- Tài khoản user
+Tài khoản: nhandang03
+Mật khẩu: 123456
+Hoặc thầy có thể tạo tài khoản user ở phần đăng ký. 
+
+
+
+                                        Cảm ơn thầy đã đọc nội dung này của nhóm em ạ.
