@@ -99,7 +99,7 @@ The **Sports News Website** is a dynamic platform that allows users to view, sea
 ---
 
 ## ⚖️ License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [License](LICENSE.md).
 
 ---
 
