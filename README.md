@@ -76,7 +76,7 @@ The **Sports News Website** is a dynamic platform that allows users to view, sea
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/sports-news.git
+   git clone https://github.com/nhathao512/Sports-News.git
    ```
 
 2. **Database Setup**:
