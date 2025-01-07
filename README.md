@@ -101,6 +101,14 @@ The **Sports News Website** is a dynamic platform that allows users to view, sea
 ## ⚖️ License
 This project is licensed under the [License](LICENSE.md).
 
----
 
-**Stay informed and enjoy discussing your favorite sports with our interactive Sports News Website! ❤️**
+## 🧑‍💻Author
+* [Võ Nhật Hào](https://github.com/nhathao512)
+
+* [Đặng Thành Nhân](https://github.com/nhandang02)
+
+* [Nguyễn Thành Nhân](https://github.com/thanhnhanzxc)
+
+**Stay informed and enjoy discussing your favorite sports with our interactive Sports News Website!**
+
+## Thanks for visting our project ❤️! 
