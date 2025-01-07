@@ -109,6 +109,9 @@ This project is licensed under the [License](LICENSE.md).
 
 * [Nguyễn Thành Nhân](https://github.com/thanhnhanzxc)
 
+---
+
 **Stay informed and enjoy discussing your favorite sports with our interactive Sports News Website!**
 
-## Thanks for visting our project ❤️! 
+### Thanks for visting our project ❤️! 
+---
