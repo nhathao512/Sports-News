@@ -111,7 +111,7 @@ This project is licensed under the [License](LICENSE.md).
 
 ---
 
-**Stay informed and enjoy discussing your favorite sports with our interactive Sports News Website!**
 
-### Thanks for visting our project ❤️! 
+
+### **Stay informed and enjoy discussing your favorite sports with our interactive Sports News Website!** Thanks for visting our project ❤️! 
 ---
