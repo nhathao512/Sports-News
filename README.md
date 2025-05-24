@@ -1,11 +1,11 @@
-# 💻Sports News Website
+# Sports News Website
 
-## 🏀 Project Overview
+## Project Overview
 The **Sports News Website** is a dynamic platform that allows users to view, search, and interact with the latest news and updates about their favorite sports teams, athletes, and events. The website is designed to provide a seamless user experience, allowing visitors to stay informed and engage in discussions about trending sports topics.
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 1. **Stay Updated**:
    - Provide real-time updates and news articles about various sports, teams, and players.
@@ -17,7 +17,7 @@ The **Sports News Website** is a dynamic platform that allows users to view, sea
 
 ---
 
-## 🛠️ Key Features
+## Key Features
 
 ### **1. Browse and Search News**
 - **Sports Categories**:
@@ -39,7 +39,7 @@ The **Sports News Website** is a dynamic platform that allows users to view, sea
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```plaintext
 .
@@ -59,7 +59,7 @@ The **Sports News Website** is a dynamic platform that allows users to view, sea
 
 ---
 
-## 🌐 Technology Stack
+## Technology Stack
 
 ### Frontend:
 - **HTML5**: For structuring the website.
@@ -91,18 +91,18 @@ The **Sports News Website** is a dynamic platform that allows users to view, sea
 
 ---
 
-## 📋 Future Enhancements
+## Future Enhancements
 - Adding a search bar with advanced filters.
 - Implementing user authentication for non-anonymous commenting.
 - Adding a section for live sports scores and updates.
 
 ---
 
-## ⚖️ License
+## License
 This project is licensed under the [License](LICENSE.md).
 
 
-## 🧑‍💻Author
+## Author
 * [Võ Nhật Hào](https://github.com/nhathao512)
 
 * [Đặng Thành Nhân](https://github.com/nhandang02)
